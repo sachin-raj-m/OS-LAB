@@ -30,7 +30,6 @@ c) FCFS b)SCAN c) C-SCAN
 2. Write programs using the following system calls of Linux operating system:
 fork, exec, getpid, exit, wait, close, stat, opendir, readdir
 3. Write programs using the I/O system calls of Linux operating system (open, read, write)
-Artificial Intelligence and Data Science
 4. Given the list of processes, their CPU burst times and arrival times, display/print the
 Gantt chart for FCFS and SJF. For each of the scheduling policies, compute and print the
 average waiting time and average turnaround time
