@@ -26,7 +26,7 @@ void fifo(int string[20],int n, int size){
 		if(flag==1){
 			printf("/nSymbol: %d Frame: %d ",symbol);
 			for(int j=0;j<n;j++)
-			printf("%d",frames[j]);
+			printf("%d\t",frames[j]);
 			page_hit+=1;
 		}
 		else{
@@ -35,7 +35,7 @@ void fifo(int string[20],int n, int size){
 			page_miss+=1;
 			printf("/nSymbol: %d Frame: %d ",symbol);
 			for(int j=0;j<n;j++)
-			printf("%d",frames[j]);
+			printf("%d\t",frames[j]);
 		}
 	}
 	printf("\nPage Hits: %d",page_hit);
