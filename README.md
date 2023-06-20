@@ -3,7 +3,8 @@
 All practice problems and mandatory questions prescribed for S4 B.tech students in CSL 204 for B.tech(2019 Scheme).
 
 ### SYLLABUS
-* mandatory
+
+mandatory *
 1. Basic Linux commands
 2. Shell programming
 -Command syntax
